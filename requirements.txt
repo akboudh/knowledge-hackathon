@@ -1,0 +1,1 @@
+# Standard library only. The participant harness supplies contract.py.
